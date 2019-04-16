@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
-import './assets/App.scss';
+import logo from './assets/img/logo.svg';
+import './assets/styles/App.scss';
+import 'reset-css';
 
 import ChildComponent from "./components/ChildComponent";
 
@@ -12,7 +13,7 @@ class App extends Component {
           <ChildComponent title="passed text" />
           <img src={logo} className="App-logo" alt="logo" />
           <p>
-            Edit <code>src/App.js</code> and save to reload.
+            Edit <code>src/App.js</code> and save to reload...
           </p>
           <a
             className="App-link"
