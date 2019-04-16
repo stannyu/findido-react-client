@@ -1,0 +1,29 @@
+@import '../../../assets/styles/variables';
+
+.header_slogan_wrapper {
+  text-align: center;
+  color: $white-color;
+  font-family: $main-font;
+  .location_title {
+    display: inline-block;
+    font-size: 24px;
+    font-weight: 300;
+    margin-bottom: 70px;
+  }
+  .slogan_title {
+    font-size: 80px;
+    font-weight: 600;
+  }
+  .small_capture {
+    display: inline-block;
+    font-size: 18px;
+    font-weight: 300;
+    margin: 25px 0 33px 0;
+  }
+  .company_title {
+    display: inline-block;
+    font-family: $secondary-font;
+    font-size: 28px;
+    font-weight: 600;
+  }
+}
