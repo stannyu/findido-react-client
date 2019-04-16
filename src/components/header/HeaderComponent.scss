@@ -1,0 +1,25 @@
+@import '../../assets/styles/variables';
+
+.header_wrapper {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  min-width: $grid-width;
+  height: 100vh;
+  background-image: url('../../assets/img/head-bg.jpg');
+  background-repeat: no-repeat;
+  background-position: center center;
+  .header_nav_bar {
+    position: absolute;
+    top: 0;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    width: 100%;
+    height: 80px;
+    box-sizing: border-box;
+  }
+}

@@ -1,0 +1,20 @@
+@import '../../../assets/styles/variables';
+
+.header_nav_wrapper {
+  width: 220px;
+  height: 80px;
+  background: $main-color;
+  cursor: pointer;
+  .hamburger_icon {
+    margin: 28px 0 0 38px;
+    float: left;
+  }
+  .nav_title {
+    float: left;
+    line-height: 80px;
+    margin-left: 13px;
+    font-family: $main-font;
+    font-size: 22px;
+    color: $white-color;
+  }
+}

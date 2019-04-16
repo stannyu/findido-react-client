@@ -1,0 +1,23 @@
+@import '../../../assets/styles/variables';
+
+.bottom_bar_wrapper {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  width: 740px;
+  height: 80px;
+  background: $main-color;
+  .b_bar_text {
+    display: inline-block;
+    font-family: $main-font;
+    color: $white-color;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 80px;
+    margin-left: 50px;
+  }
+  .arrow_down_icon{
+    float: right;
+    margin: 33px 42px 0 0;
+  }
+}
