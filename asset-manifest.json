@@ -1,16 +1,16 @@
 {
-  "main.css": "/findido-react-client/static/css/main.fa4e6de5.chunk.css",
-  "main.js": "/findido-react-client/static/js/main.8b5a6332.chunk.js",
-  "main.js.map": "/findido-react-client/static/js/main.8b5a6332.chunk.js.map",
+  "main.css": "/findido-react-client/static/css/main.740436f9.chunk.css",
+  "main.js": "/findido-react-client/static/js/main.65a78002.chunk.js",
+  "main.js.map": "/findido-react-client/static/js/main.65a78002.chunk.js.map",
   "runtime~main.js": "/findido-react-client/static/js/runtime~main.ec0675c1.js",
   "runtime~main.js.map": "/findido-react-client/static/js/runtime~main.ec0675c1.js.map",
   "static/css/2.64827e2f.chunk.css": "/findido-react-client/static/css/2.64827e2f.chunk.css",
-  "static/js/2.f8d74246.chunk.js": "/findido-react-client/static/js/2.f8d74246.chunk.js",
-  "static/js/2.f8d74246.chunk.js.map": "/findido-react-client/static/js/2.f8d74246.chunk.js.map",
+  "static/js/2.baf3c1c8.chunk.js": "/findido-react-client/static/js/2.baf3c1c8.chunk.js",
+  "static/js/2.baf3c1c8.chunk.js.map": "/findido-react-client/static/js/2.baf3c1c8.chunk.js.map",
   "index.html": "/findido-react-client/index.html",
-  "precache-manifest.6b4ea69f5df704cde131f8dfbd98e93d.js": "/findido-react-client/precache-manifest.6b4ea69f5df704cde131f8dfbd98e93d.js",
+  "precache-manifest.4067a37303b8bef3f313075548b3628b.js": "/findido-react-client/precache-manifest.4067a37303b8bef3f313075548b3628b.js",
   "service-worker.js": "/findido-react-client/service-worker.js",
   "static/css/2.64827e2f.chunk.css.map": "/findido-react-client/static/css/2.64827e2f.chunk.css.map",
-  "static/css/main.fa4e6de5.chunk.css.map": "/findido-react-client/static/css/main.fa4e6de5.chunk.css.map",
-  "static/media/logo.svg": "/findido-react-client/static/media/logo.5d5d9eef.svg"
+  "static/css/main.740436f9.chunk.css.map": "/findido-react-client/static/css/main.740436f9.chunk.css.map",
+  "static/media/HeaderComponent.scss": "/findido-react-client/static/media/head-bg.27cf5b86.jpg"
 }
