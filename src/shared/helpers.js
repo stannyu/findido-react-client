@@ -5,3 +5,7 @@ export function categorieBgStyles(categorie) {
     overflow: "hidden"
   }
 }
+
+export function heatToUpper(str) {
+  return str[0].toUpperCase() + str.slice(1);
+}

@@ -25,7 +25,6 @@ class TopCategoriesComponent extends Component {
   }
 
   setImageToState(data) {
-    console.warn(data);
     this.setState({
       topBigCategorie: data.big,
       smallCategories: data.smalls
