@@ -1,0 +1,59 @@
+{
+  "top-categories": {
+    "big": {
+      "id": "1",
+      "title": "Food & Entertainment",
+      "backgroundUrl": "http://127.0.0.1:8080/top-categories/top-cat-big-bg.jpg"
+    },
+    "smalls": [
+      {
+        "id": "1",
+        "title": "Leasure",
+        "backgroundUrl": "http://127.0.0.1:8080/top-categories/leisure-bg.jpg"
+      },
+      {
+        "id": "2",
+        "title": "Health & Beauty",
+        "backgroundUrl": "http://127.0.0.1:8080/top-categories/beauty-bg.jpg"
+      },
+      {
+        "id": "3",
+        "title": "Services",
+        "backgroundUrl": "http://127.0.0.1:8080/top-categories/services-bg.jpg"
+      },
+      {
+        "id": "4",
+        "title": "Sport",
+        "backgroundUrl": "http://127.0.0.1:8080/top-categories/sport-bg.jpg"
+      }
+    ]
+  },
+  "categories" : {
+    "food": [
+      {
+        "id": "1",
+        "title": "Fish menu",
+        "backgroundUrl": "http://127.0.0.1:8080/categories/food/fish-bg.jpg",
+        "description": "From salmon to oysters"
+      },
+      {
+        "id":  "2",
+        "title": "Children facilities",
+        "backgroundUrl": "http://127.0.0.1:8080/categories/food/italian-bg.jpg",
+        "description": "From salmon to oysters"
+      },
+      {
+        "id":  "3",
+        "title": "Deserts",
+        "backgroundUrl": "http://127.0.0.1:8080/categories/food/deserts-bg.jpg",
+        "description": "From salmon to oysters"
+      },
+      {
+        "id":  "4",
+        "title": "Italian cuisine",
+        "backgroundUrl": "http://127.0.0.1:8080/categories/food/italian-bg.jpg",
+        "description": "From salmon to oysters"
+      }
+    ]
+  }
+}
