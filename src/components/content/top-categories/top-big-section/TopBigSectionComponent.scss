@@ -1,0 +1,19 @@
+@import "../../../../assets/styles/variables";
+
+.top_categorie_big {
+  position: relative;
+  float: left;
+  width: 600px;
+  height: 600px;
+  margin-right: 24px;
+  background: blueviolet;
+  border-radius: 4px;
+  &__title {
+    position: absolute;
+    left: 27px;
+    bottom: $v1-margin;
+    font-family: $main-font;
+    color: $white-color;
+    font-size: 26px;
+  }
+}
