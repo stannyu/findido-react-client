@@ -17,6 +17,7 @@
     float: left;
     font-family: $main-font;
     font-size: 26px;
+    font-weight: 600;
     color: $dark-text;
   }
   &__link_all {
@@ -29,20 +30,6 @@
     .arrow_right {
       margin-top: 3px;
       float: right;
-    }
-  }
-}
-
-.categories_cards_container {
-  .categorie_card {
-    width: 288px;
-    height: 384px;
-    float: left;
-    margin-right: 24px;
-    background: lightseagreen;
-    border-radius: 4px;
-    &:last-child {
-      margin-right: 0;
     }
   }
 }
