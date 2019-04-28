@@ -1,0 +1,48 @@
+@import "../../../assets/styles/variables";
+
+.categorie_section_wrapper {
+  position: relative;
+  width: 100%;
+  min-height: 400px;
+  float: left;
+  margin-top: $v1-margin;
+  padding-top: 60px;
+}
+.title_section_container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  &__title {
+    float: left;
+    font-family: $main-font;
+    font-size: 26px;
+    color: $dark-text;
+  }
+  &__link_all {
+    float: right;
+    line-height: 26px;
+    font-size: 16px;
+    margin-top: 5px;
+    font-family: $main-font;
+    color: $dark-light-text;
+    .arrow_right {
+      margin-top: 3px;
+      float: right;
+    }
+  }
+}
+
+.categories_cards_container {
+  .categorie_card {
+    width: 288px;
+    height: 384px;
+    float: left;
+    margin-right: 24px;
+    background: lightseagreen;
+    border-radius: 4px;
+    &:last-child {
+      margin-right: 0;
+    }
+  }
+}
