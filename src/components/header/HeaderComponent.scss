@@ -11,6 +11,8 @@
   background-image: url('../../assets/img/head-bg.jpg');
   background-repeat: no-repeat;
   background-position: center center;
+  -webkit-background-size: cover;
+  background-size: cover;
   .header_nav_bar {
     position: absolute;
     top: 0;
