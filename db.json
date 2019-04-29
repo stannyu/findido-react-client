@@ -54,6 +54,33 @@
         "backgroundUrl": "http://127.0.0.1:8080/categories/food/italian-bg.jpg",
         "description": "From salmon to oysters"
       }
+    ],
+    "beauty": [
+      {
+        "id":  "5",
+        "title": "Deserts",
+        "backgroundUrl": "http://127.0.0.1:8080/categories/food/deserts-bg.jpg",
+        "description": "From salmon to oysters"
+      },
+      {
+        "id":  "6",
+        "title": "Deserts",
+        "backgroundUrl": "http://127.0.0.1:8080/categories/food/deserts-bg.jpg",
+        "description": "From salmon to oysters"
+      },
+      {
+        "id":  "7",
+        "title": "Deserts",
+        "backgroundUrl": "http://127.0.0.1:8080/categories/food/deserts-bg.jpg",
+        "description": "From salmon to oysters"
+      },
+      {
+        "id":  "8",
+        "title": "Deserts",
+        "backgroundUrl": "http://127.0.0.1:8080/categories/food/deserts-bg.jpg",
+        "description": "From salmon to oysters"
+      }
+
     ]
   }
 }
