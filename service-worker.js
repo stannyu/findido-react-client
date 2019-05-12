@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/findido-react-client/precache-manifest.2cca8c9742bf7cace9c99ee923afe901.js"
+  "/findido-react-client/precache-manifest.146e2c5275cb1241b341ae697f969be7.js"
 );
 
 workbox.clientsClaim();
