@@ -1,0 +1,34 @@
+@import "../../../assets/styles/variables";
+
+.footer_banner {
+  position: absolute;
+  bottom: -80px;
+  width: $grid-width;
+  height: 160px;
+  border-radius: 4px;
+  background: $dark-text;
+  &__text {
+    font-family: $main-font;
+    font-weight: 600;
+    color: $white-color;
+    font-size: 24px;
+    line-height: 160px;
+    margin-left: 200px;
+    float: left;
+  }
+  &__cta {
+    cursor: pointer;
+    border: none;
+    background: $white-color;
+    color: $dark-text;
+    font-family: $main-font;
+    font-size: 16px;
+    font-weight: 600;
+    width: 200px;
+    height: 50px;
+    float: right;
+    margin-right: 200px;
+    margin-top: 55px;
+    border-radius: 3px;
+  }
+}
