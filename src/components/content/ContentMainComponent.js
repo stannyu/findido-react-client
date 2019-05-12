@@ -1,4 +1,6 @@
 import React, { Component } from "react";
+
+import "../../assets/styles/App.scss";
 import "./ContentMainComponent.scss";
 
 import TopCategoriesComponent from "./top-categories/TopCategoriesComponent";
@@ -14,6 +16,7 @@ class ContentMainComponent extends Component {
         <TopCategoriesComponent />
         <CategorieSectionComponent categorie={CATEGORIE_FOOD}/>
         <CategorieSectionComponent categorie={CATEGORIE_BEAUTY}/>
+        <CategorieSectionComponent categorie={CATEGORIE_FOOD}/>
       </div>
     );
   }

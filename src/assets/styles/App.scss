@@ -1,4 +1,5 @@
-@import "variables";;
+@import "variables";
+@import "mixins";
 
 .App {
   text-align: center;
@@ -32,4 +33,10 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.grid {
+  width: $grid-width;
+  margin: 0 auto;
+  @include clearfix;
 }

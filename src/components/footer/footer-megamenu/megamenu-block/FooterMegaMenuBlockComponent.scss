@@ -1,0 +1,36 @@
+@import "../../../../assets/styles/variables";
+
+.mm_block_wrapper {
+  position: relative;
+  width: 288px;
+  min-height: 202px;
+  float: left;
+  margin-right: 24px;
+  margin-bottom: 33px;
+  cursor: pointer;
+  border-radius: 4px;
+  &:nth-child(4n) {
+    margin-right: 0;
+  }
+  &__title {
+    font-family: $main-font;
+    font-size: 16px;
+    font-weight: 600;
+    color: $dark-text;
+    margin-bottom: 28px;
+  }
+  &__link {
+    display: block;
+    cursor: pointer;
+    width: 100%;
+    font-family: $main-font;
+    color: $dark-light-text;
+    font-size: 14px;
+    font-weight: 500;
+    margin-bottom: 12px;
+    text-decoration: none;
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+}
