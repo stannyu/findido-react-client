@@ -7,6 +7,11 @@
   float: left;
   margin-top: $v1-margin;
   padding-top: 60px;
+  padding-bottom: 74px;
+  border-bottom: 1px solid #DAE2F5;
+  &:last-child {
+    border-bottom: none;
+  }
 }
 .title_section_container {
   position: absolute;
